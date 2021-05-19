@@ -1,14 +1,14 @@
-## Welcome to Allison's Portfolio
+# Welcome to Allison's Portfolio
 
 
 
-# Aerospace-Related Projects
+## Aerospace-Related Projects
 
 
-# AI and Machine Learning Projects
+## AI and Machine Learning Projects
 
 
-# Technical Writing 
+## Technical Writing 
 
 - Bulleted
 - List
