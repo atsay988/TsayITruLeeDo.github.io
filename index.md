@@ -8,6 +8,9 @@
 ## AI and Machine Learning Projects
 
 
+
+## Just for Fun
+
 ## Technical Writing 
 
 - Bulleted
