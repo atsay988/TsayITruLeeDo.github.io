@@ -1,15 +1,14 @@
-## Welcome to All Things Aerospace aka Allison's Portfolio
+## Welcome to Allison's Portfolio
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Aerospace-Related Projects
 
-# Header 1
-## Header 2
-### Header 3
+
+# AI and Machine Learning Projects
+
+
+# Technical Writing 
 
 - Bulleted
 - List
