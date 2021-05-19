@@ -1,17 +1,22 @@
 # Welcome to Allison's Portfolio
 
-
-
-## Aerospace-Related :small_airplane:
-
+## Aerospace :small_airplane:
+- [Link](url)
 
 ## AI and Machine Learning :robot:
+- [Link](url)
 
 ## Systems Engineering :artificial_satellite:
+- [Art Criticism & Systems Engineering](https://allthingsaerospace.medium.com/what-do-art-criticism-and-systems-engineering-have-in-common-a-lot-more-than-youd-think-ed6d3dc22f37)
 
 ## Just for Fun :sparkles:
+- [Academic Survival Mode](https://allthingsaerospace.medium.com/on-academic-survival-mode-and-post-bac-pursuits-45e2576ed448)
 
- 
+
+
+<p align="center">
+    xyz
+</p>
 
 - Bulleted
 - List
