@@ -2,16 +2,16 @@
 
 
 
-## :small_airplane: Aerospace-Related Projects :small_airplane:
+## Aerospace-Related :small_airplane:
 
 
-## AI and Machine Learning Projects
+## AI and Machine Learning :robot:
 
+## Systems Engineering :artificial_satellite:
 
+## Just for Fun :sparkles:
 
-## Just for Fun
-
-## Technical Writing 
+ 
 
 - Bulleted
 - List
