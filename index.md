@@ -2,7 +2,7 @@
 
 
 
-## Aerospace-Related Projects
+## :small_airplane: Aerospace-Related Projects :small_airplane:
 
 
 ## AI and Machine Learning Projects
