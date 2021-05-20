@@ -15,6 +15,7 @@
 
 ## Just for Fun ✨
 - [Academic Survival Mode](https://allthingsaerospace.medium.com/on-academic-survival-mode-and-post-bac-pursuits-45e2576ed448)
+- [Automated Flight Check-in w/ Selenium](https://github.com/atsay988/AutomaticCheckIn) 
 - AIAA
 - Aerospace Robotics Competition
 
