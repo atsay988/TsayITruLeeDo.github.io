@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+echo '' >> _config.yml
+echo 'title: aregsar' >> _config.yml
+echo 'description: Areg Sarkissians Blog' >> _config.yml
