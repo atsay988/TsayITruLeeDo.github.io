@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img width="460" height="300" src="usa-usa-piper-piper-piper-aircraft-hd-wallpaper-preview.jpg">
-</p>
-
 ## Aerospace 🛩️
 - [Link](url)
 
@@ -17,5 +12,9 @@
 - [Automated Flight Check-in w/ Selenium](https://github.com/atsay988/AutomaticCheckIn) 
 - AIAA
 - Aerospace Robotics Competition
+
+<p align="center">
+  <img width="460" height="300" src="usa-usa-piper-piper-piper-aircraft-hd-wallpaper-preview.jpg">
+</p>
 
 
