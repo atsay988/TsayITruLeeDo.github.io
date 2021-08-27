@@ -12,7 +12,7 @@
 - [Academic Survival Mode](https://allthingsaerospace.medium.com/on-academic-survival-mode-and-post-bac-pursuits-45e2576ed448)
 - [Automated Flight Check-in w/ Selenium](https://github.com/atsay988/AutomaticCheckIn) 
 - [Aerospace Robotics Competition](https://www.aeroroboticscomp.com/index.html)
-- [A Brief Whitepaper on the Future of Arctic Warfare] ()
+- [A Brief Whitepaper on the Future of Arctic Warfare] (https://github.com/atsay988/AllThingsAerospace.github.io/blob/gh-pages/Powering%2Bthe%2BFuture%2Bof%2BPolar%2BOperations.pdf)
 
 <p align="center">
   <img width="460" height="300" src="usa-usa-piper-piper-piper-aircraft-hd-wallpaper-preview.jpg">
