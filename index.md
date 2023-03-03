@@ -1,6 +1,6 @@
 ## Welcome to A&E's Love Story
 
-Find for your table assignment(search.html)
+Find your table assignment
 
 
 <p align="center">
