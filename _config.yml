@@ -1,2 +1,6 @@
 theme: minima
 description: #TsayITrulyDo
+tipue_search:
+  include:
+    pages: true
+    collections: [apples, oranges]
