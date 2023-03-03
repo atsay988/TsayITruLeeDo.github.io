@@ -1,7 +1,9 @@
-## Welcome to A&E's Seating Assignment Site
+## Welcome to A&E's Table Assignment Site
+
+## Search for your table assignment
 
 <p align="center">
-  <img width="460" height="300" src="usa-usa-piper-piper-piper-aircraft-hd-wallpaper-preview.jpg">
+  <img width="460" height="300" src="cherry-blossoms-washington-dc-april-01-2019-418x.jpg">
 </p>
 
 
