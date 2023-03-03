@@ -7,6 +7,7 @@
 
 <p>
   Annika Tsay: Table 2
+  
   Harshi Gupta: Table 2
 
 </p>
