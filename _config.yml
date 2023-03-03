@@ -1,6 +1,6 @@
 theme: minima
-description: #TsayITrulyDo
+description: #TsayITruLeeDo
 tipue_search:
   include:
     pages: true
-    collections: [apples, oranges]
+    collections: [Annika Tsay, Harshi Gupta]
