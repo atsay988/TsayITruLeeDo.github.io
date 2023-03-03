@@ -1,4 +1,4 @@
-## Welcome to A&E's Love Story
+## Welcome to A&E's <3 Story
 
 Find your table assignment
 
